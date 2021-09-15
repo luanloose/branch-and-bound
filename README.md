@@ -7,3 +7,4 @@ a nova cidade na chamada do algoritmo (linha 164, atualmente).
 
 Alunos:
 * Abrantes Araújo Silva Filho
+* Jordhan H. Félix
