@@ -11,3 +11,4 @@ Alunos:
 * Jordhan H. Félix
 * Renata de Oliveira Silvestre Fanzeres
 * Luan Andrade Loose
+* Vinícius Gonçalves de Oliveira
