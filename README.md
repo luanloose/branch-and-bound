@@ -10,3 +10,4 @@ Alunos:
 * João Vitor Benincá Coelho de Mendonça
 * Jordhan H. Félix
 * Renata de Oliveira Silvestre Fanzeres
+* Luan Andrade Loose
